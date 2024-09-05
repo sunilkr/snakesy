@@ -1,2 +1,2 @@
 # snakesy
-Snake on Embassy
+[Snake]() on [Embassy](https://github.com/embassy-rs/embassy)
